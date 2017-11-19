@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nyasamacore:items/ntp_32"
+  }
+}

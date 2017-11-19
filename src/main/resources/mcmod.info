@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nyasamacore",
+  "name": "NyaSamaCore",
+  "description": "NyaSama Core mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://dev.nyasama.com/nsmc",
+  "updateUrl": "",
+  "authorList": ["NSDN"],
+  "credits": "Copyright (C) NSDN 2014 - 2018",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
